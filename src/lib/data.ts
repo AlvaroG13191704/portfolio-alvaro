@@ -6,7 +6,7 @@ export const benefits = [
   }, 
   {
     name: "Desarrollador autodidacta",
-    description: "Durante mi trayectoria me he caracterizado por ser una persona autodidacta, ya que me interesa aprender nuevas tecnologías y aplicarlas a mis proyectos. Suelo frecuentar tutoriales de YouTube, documentación oficial y hasta cursos en plataformas para poder seguir en constante aprendizaje. Podría afirmar que el 80% de tecnologías que manejo han sido aprendidas de manera autodidacta."
+    description: "Durante mi trayectoria me he caracterizado por ser una persona autodidacta, ya que me interesa aprender nuevas tecnologías y aplicarlas a mis proyectos. Suelo frecuentar tutoriales de YouTube, documentación oficial y hasta cursos en plataformas para poder seguir en constante aprendizaje."
   },
   {
       name: "Un buen comunicador",

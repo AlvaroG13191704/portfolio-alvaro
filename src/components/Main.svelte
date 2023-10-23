@@ -49,14 +49,14 @@
             ¿Qué <span class="poppins text-violet-400">hago</span> actualmente?
         </h3>
         <p class="text-lg pt-8">
-            Actualmente me encuentro <span class="poppins text-violet-400">en busca de trabajo como desarrollador backend</span>. Además, estoy siendo colaborador principal de una 
-            <span class="poppins text-violet-400">empresa emergente (startup) llamado “Velticare”</span> la cual será una aplicación web dedicada a la automatización de servicios 
+            Me encuentro <span class="poppins text-violet-400">en busca de trabajo como desarrollador backend</span>. Además, estoy siendo colaborador principal de una 
+            <span class="poppins text-violet-400">empresa emergente (startup) llamada “Velticare”</span> la cual será una aplicación web dedicada a la automatización de servicios 
             administrativos de salud, por el momento nos encontramos en fase demo haciendo pruebas con 
             un grupo selectivo de doctores. <span class="poppins text-violet-400">Mi rol</span> en este emprendimiento ha sido el <span class="poppins text-violet-400">desarrollo backend</span> de la aplicación creando 
             microservicios para diferentes necesidades de la aplicación, también he sido participe de la integración de funcionalidades 
             para el frontend. Me gustaría enseñarte más de mi trabajo en los diferentes lenguajes y tecnologías que se manejan, 
             pero <span class="poppins text-violet-400">por políticas internas</span>, no puedo compartir mi trabajo,
-            unicamente antiguos repositorios que ya no tienen un uso significativo.<span class="poppins text-violet-400">Pronto proporcionaremos más información.</span>  
+            unicamente antiguos repositorios que ya no tienen un uso significativo  
         </p>
 
     </div>
